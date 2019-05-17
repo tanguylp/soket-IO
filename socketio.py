@@ -37,7 +37,7 @@ def main():
     print(" | XBee Python Library Get/Set Remote DIO Sample |")
     print(" +-----------------------------------------------+\n")
 
-    host = "127.0.0.1"
+    host = "192.168.1.85"
     port = 5000
 
     mySocket = socket.socket()
