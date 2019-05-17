@@ -20,5 +20,5 @@ parts:
   # See 'snapcraft plugins'
     plugin: python
     python-version: python3
-    source: https://github.com/tanguylp/control_IO.git
+    source: https://github.com/tanguylp/soket-IO.git
     requirements: requirements.txt
