@@ -24,7 +24,7 @@ PORT = "/dev/ttyUSB0"
 # TODO: Replace with the baud rate of your local module.
 BAUD_RATE = 9600
 
-REMOTE_NODE_ID = "0013A2004152EED9"
+REMOTE_NODE_ID = "0013A200418FC98E"
 
 IOLINE_OUT1 = IOLine.DIO4_AD4
 IOLINE_OUT2 = IOLine.DIO1_AD1
